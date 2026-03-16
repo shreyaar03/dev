@@ -18,6 +18,7 @@ class Staff {
         System.out.println("Name: " + name);
         System.out.println("Phone: " + phone);
         System.out.println("Salary: " + salary);
+        System.out.println("Salary: " + salary);
     }
 }
 
